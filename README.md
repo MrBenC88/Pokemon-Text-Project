@@ -1,4 +1,8 @@
 # Pokemon-Text-Project
-A Pokemon Text Game  (Java)
+A Text-Based Pokemon Battle Arena Game programmed in Java.
 
-A simple Pokemon Text Game created in Java using the 2014 build.
+Features:
+- Read/Retrieve Data from File
+- Choose custom Pokemon Battle team
+
+Demo Video: https://youtu.be/lasybsYm8w4
